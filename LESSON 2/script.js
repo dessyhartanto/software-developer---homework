@@ -19,3 +19,15 @@ console.log(judulBuku);
 console.log(penulis);
 console.log(tahunTerbit);
 console.log(kategoriSains);
+
+
+// Challenge 1
+var favoritedMovie = 'Avengers End Game';
+var favoritedMovie
+console.log(favoritedMovie);
+
+
+// Challenge 2
+var favoritedMovie = 'Avengers End Game';
+var favoritedMovie = 'Naruto Shippuden The Movie';
+console.log(favoritedMovie);
